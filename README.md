@@ -1,7 +1,7 @@
-# starter express app template
+# Websockets Short Assignment EC
 
-* node with babel
-* expressjs
-* airbnb eslint rules
+### Author
+Eric Zhang
 
-Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
+### What I did
+I built a websocket based server backend for the notes app I made back in lab 3. Instead of Firebase, this would be our own server hosted on Heroku. This repo contains the server while the frontend is on its own branch for lab 3.
